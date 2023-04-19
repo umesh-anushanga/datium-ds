@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/ttg/Documents/pickel/mlruns/4/d5904260f8c8458b870c7c4e8d24c229/artifacts
+end_time: 1681891495935
+entry_point_name: ''
+experiment_id: '4'
+lifecycle_stage: active
+run_id: d5904260f8c8458b870c7c4e8d24c229
+run_name: handsome-newt-299
+run_uuid: d5904260f8c8458b870c7c4e8d24c229
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681878491228
+status: 4
+tags: []
+user_id: ttg

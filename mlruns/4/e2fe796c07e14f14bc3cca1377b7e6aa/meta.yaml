@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/ttg/Documents/pickel/mlruns/4/e2fe796c07e14f14bc3cca1377b7e6aa/artifacts
+end_time: 1681855849575
+entry_point_name: ''
+experiment_id: '4'
+lifecycle_stage: active
+run_id: e2fe796c07e14f14bc3cca1377b7e6aa
+run_name: ambitious-smelt-673
+run_uuid: e2fe796c07e14f14bc3cca1377b7e6aa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681855827366
+status: 4
+tags: []
+user_id: ttg
