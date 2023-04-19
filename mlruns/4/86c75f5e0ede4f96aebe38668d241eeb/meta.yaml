@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/ttg/Documents/pickel/mlruns/4/86c75f5e0ede4f96aebe38668d241eeb/artifacts
+end_time: 1681894261688
+entry_point_name: ''
+experiment_id: '4'
+lifecycle_stage: active
+run_id: 86c75f5e0ede4f96aebe38668d241eeb
+run_name: salty-squid-302
+run_uuid: 86c75f5e0ede4f96aebe38668d241eeb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681894124960
+status: 3
+tags: []
+user_id: ttg
