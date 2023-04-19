@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/ttg/Documents/pickel/mlruns/3/6b0b92898bba4f29b890f60a9b2c8d1c/artifacts
+end_time: 1681852755187
+entry_point_name: ''
+experiment_id: '3'
+lifecycle_stage: active
+run_id: 6b0b92898bba4f29b890f60a9b2c8d1c
+run_name: capricious-skink-943
+run_uuid: 6b0b92898bba4f29b890f60a9b2c8d1c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681852714763
+status: 3
+tags: []
+user_id: ttg

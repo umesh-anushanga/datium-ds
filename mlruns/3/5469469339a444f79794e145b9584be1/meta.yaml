@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/ttg/Documents/pickel/mlruns/3/5469469339a444f79794e145b9584be1/artifacts
+end_time: 1681853480790
+entry_point_name: ''
+experiment_id: '3'
+lifecycle_stage: active
+run_id: 5469469339a444f79794e145b9584be1
+run_name: classy-wasp-164
+run_uuid: 5469469339a444f79794e145b9584be1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681853028988
+status: 3
+tags: []
+user_id: ttg

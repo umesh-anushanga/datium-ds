@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/ttg/Documents/pickel/mlruns/3/72dea3cf8f5b4772823754c97624c9bf/artifacts
+end_time: 1681852899518
+entry_point_name: ''
+experiment_id: '3'
+lifecycle_stage: active
+run_id: 72dea3cf8f5b4772823754c97624c9bf
+run_name: adaptable-cow-605
+run_uuid: 72dea3cf8f5b4772823754c97624c9bf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681852868656
+status: 3
+tags: []
+user_id: ttg
